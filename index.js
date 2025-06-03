@@ -38,6 +38,6 @@ app.use("/api/categorias", require("./src/routes/categorias.router"));
 app.use("/api/productos", require("./src/routes/productos.router"));
 app.use("/api/contacto", require("./src/routes/contacto.router"));
 
-const PORT = process.env.PORT || 300;
+const PORT = process.env.PORT || 3001;
 
 app.listen(PORT, () => console.log(`API Server running at http://localhost:${PORT}`));
