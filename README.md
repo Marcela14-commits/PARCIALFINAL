@@ -19,7 +19,7 @@ Una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) full-stack con backend 
 - Angular CLI (Instalar globalmente: `npm install -g @angular/cli`)
 - Servidor MySQL en ejecución
 
-## Instalación holaaaaaaaaaaaaaaaaaaaaaaaaaaa
+## Instalación hola
 
 1. Clonar el repositorio:
 ```bash
